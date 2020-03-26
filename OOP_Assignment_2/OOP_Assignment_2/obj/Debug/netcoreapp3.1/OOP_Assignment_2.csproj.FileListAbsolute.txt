@@ -1,0 +1,13 @@
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.csprojAssemblyReference.cache
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.csproj.CoreCompileInputs.cache
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.AssemblyInfoInputs.cache
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.AssemblyInfo.cs
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.exe
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.deps.json
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.runtimeconfig.json
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.runtimeconfig.dev.json
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.dll
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\bin\Debug\netcoreapp3.1\OOP_Assignment_2.pdb
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.dll
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.pdb
+D:\OOP work\OOP_Assignment_2\OOP_Assignment_2\obj\Debug\netcoreapp3.1\OOP_Assignment_2.genruntimeconfig.cache
